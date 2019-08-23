@@ -5,7 +5,7 @@ This container allows you to easily set up an OpenStreetMap PNG tile server give
 ## Quick Setup
 
 ```
-> bash buildvolume.sh
+> bash buildimage.sh
 > bash createvolume.sh
 > bash importmap.sh
 > bash startmap.sh
